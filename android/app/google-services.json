@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170332450974",
+    "project_id": "spotify-fire-eb733",
+    "storage_bucket": "spotify-fire-eb733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170332450974:android:be1d7562a5a8afe139cb8f",
+        "android_client_info": {
+          "package_name": "com.spotify.fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkzP8e0U6wdN9xC_w2YZR_FP1jL1fgwGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
